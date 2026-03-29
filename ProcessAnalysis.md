@@ -14,6 +14,8 @@ The artefact explains how organisations increasingly use process mining and real
 
 I chose this artefact because it shows process analysis applied in real-world business contexts. It helped me understand that analysing processes is no longer a one-time task but a continuous, data-driven practice. This is important in BPM because organisations must adapt and improve their processes to remain competitive. The article demonstrates the practical value of process analysis, making it meaningful evidence of my understanding of BPM applications.
 
+![Process Artefact](Images/artefact2.png)
+
 ---
 
 ## Artefact 3 – Academic Article: Business Process Management and Artificial Intelligence
