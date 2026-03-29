@@ -25,6 +25,8 @@ It explains how AI supports process analysis by enabling automation, predictive 
 
 I selected this artefact because it illustrates advanced methods of process analysis using AI. It helped me realise that traditional analysis methods may be insufficient for complex workflows and large-scale data. In BPM, AI-driven analysis enables better decision-making and more efficient process improvements. The article is meaningful as it connects theoretical knowledge with innovative technology practices, showing how process analysis is evolving in modern business environments.
 
+![Process Artefact 3](Images/artefact3.png)
+
 ---
 
 ## Artefact 4 – Research Paper: Process Analytics – Data-Driven BPM
