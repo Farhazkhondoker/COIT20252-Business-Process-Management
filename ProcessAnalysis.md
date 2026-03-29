@@ -21,7 +21,7 @@ I chose this artefact because it shows process analysis applied in real-world bu
 
 ## Artefact 3 – Academic Article: Business Process Management and Artificial Intelligence
 
-This artefact is a 2025 academic article exploring AI integration in BPM. It explains how AI supports process analysis by enabling automation, predictive analytics, and pattern recognition in large datasets. The study highlights that AI enhances the accuracy and efficiency of analysing business processes, detecting inefficiencies, and suggesting improvements. It demonstrates how modern BPM is evolving to incorporate intelligent technologies for process optimisation (vom Brocke et al., 2025, p.68).  
+It explains how AI supports process analysis by enabling automation, predictive analytics, and pattern recognition in large datasets. The study highlights that AI enhances the accuracy and efficiency of analysing business processes, detecting inefficiencies, and suggesting improvements. It demonstrates how modern BPM is evolving to incorporate intelligent technologies for process optimisation (Fettke and Chiara Di Francescomarino., 2025, p.67-68).  
 
 I selected this artefact because it illustrates advanced methods of process analysis using AI. It helped me realise that traditional analysis methods may be insufficient for complex workflows and large-scale data. In BPM, AI-driven analysis enables better decision-making and more efficient process improvements. The article is meaningful as it connects theoretical knowledge with innovative technology practices, showing how process analysis is evolving in modern business environments.
 
@@ -40,6 +40,7 @@ Artefact 1: The Language Library (2025) *What Is Process Analysis?* Available at
 
 Artefact 2: Lawton, G. and Patrizio, A. (2025) *10 trends shaping the future of BPM*. Available at: [https://www.techtarget.com/searchcio/tip/6-trends-shaping-the-future-of-BPM]
 
+Artefact 3: Fettke, P. and Chiara Di Francescomarino (2025). *Business Process Management and Artificial Intelligence*. KI - Künstliche Intelligenz. Available at: [https://link.springer.com/article/10.1007/s13218-025-00891-y#citeas]
+‌
 Stierle, M., Kraume, K. and Matzner, M. (2025) *Process analytics – Data-driven business process management*. Available at: [https://arxiv.org/abs/2512.20703] 
 
-vom Brocke, J. et al. (2025) *Business Process Management and Artificial Intelligence*. Available at: [https://link.springer.com/article/10.1007/s13218-025-00891-y]  
