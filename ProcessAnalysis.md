@@ -6,6 +6,7 @@ The video explains process analysis as a method to break down complex tasks into
 
 I selected this artefact because it provides a simple introduction to process analysis. It helped me understand that breaking down tasks is essential in business environments, where processes need to be clear and consistent. The video demonstrates how structured thinking improves understanding and execution, which is a key aspect of analysing and improving business processes. It is meaningful as evidence of my understanding of BPM concepts in practice.
 
+![Process Artefact 1](Images/artefact1.png)
 ---
 
 ## Artefact 2 – Industry Article: 10 Trends Shaping the Future of BPM
@@ -14,7 +15,7 @@ The artefact explains how organisations increasingly use process mining and real
 
 I chose this artefact because it shows process analysis applied in real-world business contexts. It helped me understand that analysing processes is no longer a one-time task but a continuous, data-driven practice. This is important in BPM because organisations must adapt and improve their processes to remain competitive. The article demonstrates the practical value of process analysis, making it meaningful evidence of my understanding of BPM applications.
 
-![Process Artefact](Images/artefact2.png)
+![Process Artefact 2](Images/artefact2.png)
 
 ---
 
