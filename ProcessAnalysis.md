@@ -81,14 +81,13 @@ I chose this artefact because it demonstrates advanced, practical process analys
 
 # GenAI Declaration of Reference Fix
 
-This section documents the correction of the reference list using Generative AI (Microsoft Copilot).  
-The AI was used to reformat the references into proper **Harvard style**, ensuring consistency in punctuation, inclusion of publisher/platform names, and access dates.
+This section documents the seekinf correction feedbacks of the reference list using Generative AI (Microsoft Copilot).  
+The AI was used to get the knowledge of references so that it aligns perfectly with the rules of proper **Harvard style**, ensuring consistency in punctuation, inclusion of publisher/platform names, and access dates.
 
 ## Declaration
-I, Farhaz, confirm that the following references were corrected with the assistance of Generative AI.  
-
----
+I, Farhaz, confirm that the following prompt was written on MS Copilot.  
 
 ![GenAI Declaration](Images/AI.png)
 
 **Note:** Screenshots of the AI interaction as proof of the correction process.
+---
