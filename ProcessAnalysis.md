@@ -7,6 +7,9 @@ The video explains process analysis as a method to break down complex tasks into
 I selected this artefact because it provides a simple introduction to process analysis. It helped me understand that breaking down tasks is essential in business environments, where processes need to be clear and consistent. The video demonstrates how structured thinking improves understanding and execution, which is a key aspect of analysing and improving business processes. It is meaningful as evidence of my understanding of BPM concepts in practice.
 
 ![Process Artefact 1](Images/artefact1.png)
+
+**Figure 1: Screenshot of Youtube video**
+
 ---
 
 ## Artefact 2 – Industry Article: 10 Trends Shaping the Future of BPM in 2025
@@ -16,6 +19,8 @@ The artefact explains how organisations increasingly use process mining and real
 I chose this artefact because it shows process analysis applied in real-world business contexts. It helped me understand that analysing processes is no longer a one-time task but a continuous, data-driven practice. This is important in BPM because organisations must adapt and improve their processes to remain competitive. The article demonstrates the practical value of process analysis, making it meaningful evidence of my understanding of BPM applications.
 
 ![Process Artefact 2](Images/artefact2.png)
+
+**Figure 2: Screenshot of Industry Article**
 
 ---
 
@@ -27,6 +32,9 @@ I selected this artefact because it illustrates advanced methods of process anal
 
 ![Process Artefact 3](Images/artefact3.png)
 
+**Figure 3: Screenshot of Academic Article**
+
+
 ---
 
 ## Artefact 4 – Research Paper: Process Analytics – Data-Driven BPM
@@ -36,6 +44,9 @@ This artefact is a 2025 research paper on process analytics. It explains how org
 I chose this artefact because it demonstrates advanced, practical process analysis using data. It helped me understand that process analysis is not just theoretical but relies on real measurements to improve operations. This is important in BPM because accurate insights enable effective decision-making and optimisation. The paper is meaningful evidence of my learning, showing how modern organisations implement process analysis to maintain efficient, high-performing business processes.
 
 ![Process Artefact 4](Images/artefact4.png)
+
+**Figure 4: Screenshot of Research Paper**
+
 
 ---
 
@@ -48,3 +59,9 @@ Artefact 3: Fettke, P. and Chiara Di Francescomarino (2025). *Business Process M
 
 Artefact 4: Stierle, M., Kraume, K. and Matzner, M. (2025) *Process analytics – Data-driven business process management*. Available at: [https://arxiv.org/abs/2512.20703] 
 
+---
+## Figures
++ Figure 1: Screenshot of Youtube video.
++ Figure 2: Screenshot of Industry Article.
++ Figure 3: Screenshot of Academic Article.
++ Figure 4: Screenshot of Research Paper.
