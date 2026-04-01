@@ -1,5 +1,6 @@
 # COIT20252 – E-Portfolio 1: Process Analysis
-
+# Submitted by: Farhaz Khondoker
+# ID: 12300016
 ## Artefact 1 – YouTube Video: What Is Process Analysis?
 
 The video explains process analysis as a method to break down complex tasks into clear, structured steps, commonly used in manuals or instructional guides. It highlights that process analysis helps individuals understand how something works and allows replication of tasks through logical step-by-step instructions. The video emphasises clarity, audience consideration, and logical sequencing, which are crucial in both academic and professional contexts (The Language Library, 2025).  
