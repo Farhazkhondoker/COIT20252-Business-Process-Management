@@ -52,13 +52,13 @@ I chose this artefact because it demonstrates advanced, practical process analys
 ---
 
 ## References
-Artefact 1: The Language Library (2025) *What Is Process Analysis?* Available at: [https://www.youtube.com/watch?v=bdsDBAJBGHE]
+The Language Library (2025) *What Is Process Analysis?* Available at: [https://www.youtube.com/watch?v=bdsDBAJBGHE]
 
-Artefact 2: Lawton, G. and Patrizio, A. (2025) *10 trends shaping the future of BPM*. Available at: [https://www.techtarget.com/searchcio/tip/6-trends-shaping-the-future-of-BPM]
+Lawton, G. and Patrizio, A. (2025) *10 trends shaping the future of BPM*. Available at: [https://www.techtarget.com/searchcio/tip/6-trends-shaping-the-future-of-BPM]
 
-Artefact 3: Fettke, P. and Chiara Di Francescomarino (2025). *Business Process Management and Artificial Intelligence*. KI - Künstliche Intelligenz. Available at: [https://link.springer.com/article/10.1007/s13218-025-00891-y#citeas] 
+Fettke, P. and Chiara Di Francescomarino (2025). *Business Process Management and Artificial Intelligence*. KI - Künstliche Intelligenz. Available at: [https://link.springer.com/article/10.1007/s13218-025-00891-y#citeas] 
 
-Artefact 4: Stierle, M., Kraume, K. and Matzner, M. (2025) *Process analytics – Data-driven business process management*. Available at: [https://arxiv.org/abs/2512.20703] 
+Stierle, M., Kraume, K. and Matzner, M. (2025) *Process analytics – Data-driven business process management*. Available at: [https://arxiv.org/abs/2512.20703] 
 
 ---
 ## Figures
