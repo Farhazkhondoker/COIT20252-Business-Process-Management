@@ -52,13 +52,23 @@ I chose this artefact because it demonstrates advanced, practical process analys
 ---
 
 ## References
-The Language Library (2025) *What Is Process Analysis?* Available at: [https://www.youtube.com/watch?v=bdsDBAJBGHE]
 
-Lawton, G. and Patrizio, A. (2025) *10 trends shaping the future of BPM*. Available at: [https://www.techtarget.com/searchcio/tip/6-trends-shaping-the-future-of-BPM]
+- The Language Library (2025) *What is process analysis?* YouTube.  
+  Available at: https://www.youtube.com/watch?v=bdsDBAJBGHE  
+  (Accessed: 16 March 2026)
 
-Fettke, P. and Chiara Di Francescomarino (2025). *Business Process Management and Artificial Intelligence*. KI - Künstliche Intelligenz. Available at: [https://link.springer.com/article/10.1007/s13218-025-00891-y#citeas] 
+- Lawton, G. and Patrizio, A. (2025) *10 trends shaping the future of BPM.* TechTarget.  
+  Available at: https://www.techtarget.com/searchcio/tip/6-trends-shaping-the-future-of-BPM  
+  (Accessed: 23 March 2026)
 
-Stierle, M., Kraume, K. and Matzner, M. (2025) *Process analytics – Data-driven business process management*. Available at: [https://arxiv.org/abs/2512.20703] 
+- Fettke, P. and Di Francescomarino, C. (2025) ‘Business process management and artificial intelligence’, *KI – Künstliche Intelligenz.* Springer.  
+  Available at: https://link.springer.com/article/10.1007/s13218-025-00891-y  
+  (Accessed: 30 March 2026)
+
+- Stierle, M., Kraume, K. and Matzner, M. (2025) ‘Process analytics – Data-driven business process management’, *arXiv.*  
+  Available at: https://arxiv.org/abs/2512.20703  
+  (Accessed: 30 March 2026)
+
 
 ---
 ## Figures
@@ -66,3 +76,19 @@ Stierle, M., Kraume, K. and Matzner, M. (2025) *Process analytics – Data-drive
 + Figure 2: Screenshot of Industry Article.
 + Figure 3: Screenshot of Academic Article.
 + Figure 4: Screenshot of Research Paper.
+
+---
+
+# GenAI Declaration of Reference Fix
+
+This section documents the correction of the reference list using Generative AI (Microsoft Copilot).  
+The AI was used to reformat the references into proper **Harvard style**, ensuring consistency in punctuation, inclusion of publisher/platform names, and access dates.
+
+## Declaration
+I, Farhaz, confirm that the following references were corrected with the assistance of Generative AI.  
+
+---
+
+![GenAI Declaration](Images/AI.png)
+
+**Note:** Screenshots of the AI interaction as proof of the correction process.
