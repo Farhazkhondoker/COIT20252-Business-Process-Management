@@ -9,4 +9,22 @@ I selected this artefact as my introductory resource because it provided me with
 
 ---
 
-## Artefact 2 – Scholarly Article: Business Process Management in the Digital Transformation Era: New Frontiers, Challenges and Opportunities (2025)
+## Artefact 2 – Scholarly Article: A Simulation-Driven Business Process Reengineering Framework for Teaching Assignment Optimization in Higher Education (2025)
+
+[Read: Renna and Colonnese (2025) – Applied Sciences, Vol. 15, No. 5, Article 2756 (Fully open access — freely available online without a login or institutional subscription)](https://doi.org/10.3390/app15052756)
+
+This 2025 peer-reviewed open-access article published in Applied Sciences presents a real-world application of Business Process Reengineering (BPR) using BPMN 2.0 at the University of Basilicata in Italy. The authors employ a dual-phase methodology: first, an AS-IS analysis that uses BPMN 2.0 diagrams to map existing administrative workflows, and second, a TO-BE redesign validated through discrete event simulation. The study demonstrates that applying process modelling and simulation together achieved a 35% reduction in end-to-end processing time and a 22% improvement in staff utilisation, directly illustrating the practical value of structured process modelling (Renna and Colonnese, 2025, p. 1).
+
+I selected this artefact because it provided a concrete, real-world example of how business process modelling is applied to identify inefficiencies and drive meaningful organisational improvement. Before reading this article, I understood BPMN primarily as a diagramming notation. However, Renna and Colonnese (2025, p. 3) demonstrate that process modelling, when combined with simulation, becomes a powerful analytical tool that allows organisations to test redesigned processes before committing to implementation. This shifted my thinking significantly — I now appreciate that the value of a process model lies not in the diagram itself but in the analytical decisions it enables. This connects directly to the AS-IS and TO-BE modelling concepts discussed in our unit content, and reinforced my understanding that effective BPM practice requires modelling with a clear improvement purpose in mind.
+
+---
+
+## Artefact 3 – Website: Camunda BPM Platform – BPMN Modelling Guide (2025)
+
+[Explore: Camunda BPMN Symbol Reference (2025)](https://camunda.com/bpmn/reference/)
+
+The Camunda BPMN Symbol Reference Guide (2025) is an authoritative, practitioner-focused resource that documents every BPMN 2.0 element with interactive examples, use cases, and common modelling mistakes to avoid. Unlike static textbook descriptions, the guide allows users to hover over symbols and see live diagram examples, which makes learning notation significantly more intuitive. Camunda is one of the most widely adopted open-source BPM platforms globally, and its documentation reflects current industry standards for how BPMN models are built and executed in real systems (Camunda, 2025).
+
+I selected this resource because it shifted my perspective on process modelling from an academic exercise to an operational discipline. A key insight I gained was understanding the distinction between a descriptive model — which captures how a process currently works — and an executable model — which can be deployed directly into a process engine to automate workflow (Dumas et al., 2018, p. 9). This distinction matters enormously in practice: a diagram missing a single gateway definition may look complete visually but fail entirely when executed. Engaging with Camunda's documentation made me far more attentive to modelling completeness and correctness, and it highlighted that BPM practitioners must think not only about how a process looks on paper, but how it will behave in a live system.
+
+---
