@@ -8,3 +8,5 @@ This 2025 lecture-style YouTube video provides a structured introduction to Busi
 I selected this artefact as my introductory resource because it provided me with the foundational context I needed before exploring specific modelling notations like BPMN. Before watching this video, I had a narrow view of process modeling as simply drawing flowcharts. This lecture shifted my understanding significantly — I came to appreciate that modeling is a deliberate analytical practice aimed at exposing inefficiencies and aligning stakeholders on how work is actually performed (Dumas et al., 2018, p. 9). This is meaningful evidence of my BPM learning because it represents the starting point of my engagement with the topic, helping me frame everything else I studied — notation, tools, and quality criteria — within the broader purpose of why process modeling matters in organisations.
 
 ---
+
+## Artefact 2 – Scholarly Article: Business Process Management in the Digital Transformation Era: New Frontiers, Challenges and Opportunities (2025)
