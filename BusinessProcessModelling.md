@@ -32,9 +32,17 @@ I selected this resource because it shifted my perspective on process modelling 
 ## Artefact 4 – Self-Created BPMN Swimlane Diagram Using MS Visio: Making Instant Noodles (2025)
 
 [Click to view: MS Visio file](https://cqu365-my.sharepoint.com/:u:/g/personal/farhaz_khondoker_cqumail_com/IQDSNnKxM-iMR4JzTFt3TYmDAfI6gt4HLGK6bWt2wolD39M?e=0EImGZ)
-[Instant Noodles Swimlane Diagram Screenshot](Images/Noodles.png)
+
+![Instant Noodles Swimlane Diagram Screenshot](Images/Noodles.png)
 
 To apply and consolidate my understanding of BPMN 2.0 notation, I created an original swimlane process diagram modelling the everyday task of making instant noodles. The diagram is structured across three swimlanes — Preparation, Cooking, and Serving — and incorporates key BPMN 2.0 elements including a start event, task boxes, XOR (exclusive) gateway, and an end event. The XOR gateway includes both a “Yes” path progressing the process forward and a “No” path routing back to the previous step, which accurately reflects real-world conditional logic in process flows.
 
 Constructing this diagram was the most instructive learning experience across all four artefacts. I initially omitted the “No” paths on my gateways entirely — a fundamental modelling error, as an XOR gateway without a defined alternative path produces an incomplete and logically incorrect model. Correcting this forced me to think carefully about every decision point and its real-world consequence. I now understand that a process model must account for exceptions and loops, not just the ideal path. This artefact is meaningful evidence of my BPM development because it demonstrates that I can independently apply BPMN notation to construct a complete, correct process model — moving beyond theoretical knowledge into authentic, hands-on practice.
+
+## References
+- Anonymous 2025, Business process modeling lecture, YouTube, viewed 22 January 2025, https://www.youtube.com/watch?v=wliGu7rjI7s.
+- Camunda 2025, BPMN reference guide, Camunda Services GmbH, viewed 20 April 2025, https://camunda.com/bpmn/reference/.
+- Dumas, M, La Rosa, M, Mendling, J & Reijers, HA 2018, Fundamentals of business process management, 2nd edn, Springer, Heidelberg.
+- Renna, P & Colonnese, C 2025, ‘A simulation-driven business process reengineering framework for teaching assignment optimization in higher education’, Applied Sciences, vol. 15, no. 5, article 2756, doi: 10.3390/app15052756.
+- Weske, M 2019, Business process management: concepts, languages, architectures, 3rd edn, Springer, Berlin.
 
