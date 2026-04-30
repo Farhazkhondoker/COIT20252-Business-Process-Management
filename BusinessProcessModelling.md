@@ -40,8 +40,8 @@ To apply and consolidate my understanding of BPMN 2.0 notation, I created an ori
 Constructing this diagram was the most instructive learning experience across all four artefacts. I initially omitted the “No” paths on my gateways entirely — a fundamental modelling error, as an XOR gateway without a defined alternative path produces an incomplete and logically incorrect model. Correcting this forced me to think carefully about every decision point and its real-world consequence. I now understand that a process model must account for exceptions and loops, not just the ideal path. This artefact is meaningful evidence of my BPM development because it demonstrates that I can independently apply BPMN notation to construct a complete, correct process model — moving beyond theoretical knowledge into authentic, hands-on practice.
 
 ## References
-- Anonymous 2025, Business process modeling lecture, YouTube, viewed 22 January 2025, https://www.youtube.com/watch?v=wliGu7rjI7s.
-- Camunda 2025, BPMN reference guide, Camunda Services GmbH, viewed 20 April 2025, https://camunda.com/bpmn/reference/.
+- Andrew Miller 2025, Business process modeling lecture, YouTube, Accessed 22 April 2026, https://www.youtube.com/watch?v=wliGu7rjI7s.
+- Camunda 2025, BPMN reference guide, Camunda Services GmbH, Accessed 22 April 2026, https://camunda.com/bpmn/reference/.
 - Dumas, M, La Rosa, M, Mendling, J & Reijers, HA 2018, Fundamentals of business process management, 2nd edn, Springer, Heidelberg.
 - Renna, P & Colonnese, C 2025, ‘A simulation-driven business process reengineering framework for teaching assignment optimization in higher education’, Applied Sciences, vol. 15, no. 5, article 2756, doi: 10.3390/app15052756.
 - Weske, M 2019, Business process management: concepts, languages, architectures, 3rd edn, Springer, Berlin.
