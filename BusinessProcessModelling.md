@@ -28,3 +28,13 @@ The Camunda BPMN Symbol Reference Guide (2025) is an authoritative, practitioner
 I selected this resource because it shifted my perspective on process modelling from an academic exercise to an operational discipline. A key insight I gained was understanding the distinction between a descriptive model — which captures how a process currently works — and an executable model — which can be deployed directly into a process engine to automate workflow (Dumas et al., 2018, p. 9). This distinction matters enormously in practice: a diagram missing a single gateway definition may look complete visually but fail entirely when executed. Engaging with Camunda's documentation made me far more attentive to modelling completeness and correctness, and it highlighted that BPM practitioners must think not only about how a process looks on paper, but how it will behave in a live system.
 
 ---
+
+## Artefact 4 – Self-Created BPMN Swimlane Diagram Using MS Visio: Making Instant Noodles (2025)
+
+[Click to view: MS Visio file](https://cqu365-my.sharepoint.com/:u:/g/personal/farhaz_khondoker_cqumail_com/IQDSNnKxM-iMR4JzTFt3TYmDAfI6gt4HLGK6bWt2wolD39M?e=0EImGZ)
+
+
+To apply and consolidate my understanding of BPMN 2.0 notation, I created an original swimlane process diagram modelling the everyday task of making instant noodles. The diagram is structured across three swimlanes — Preparation, Cooking, and Serving — and incorporates key BPMN 2.0 elements including a start event, task boxes, XOR (exclusive) gateway, and an end event. The XOR gateway includes both a “Yes” path progressing the process forward and a “No” path routing back to the previous step, which accurately reflects real-world conditional logic in process flows.
+
+Constructing this diagram was the most instructive learning experience across all four artefacts. I initially omitted the “No” paths on my gateways entirely — a fundamental modelling error, as an XOR gateway without a defined alternative path produces an incomplete and logically incorrect model. Correcting this forced me to think carefully about every decision point and its real-world consequence. I now understand that a process model must account for exceptions and loops, not just the ideal path. This artefact is meaningful evidence of my BPM development because it demonstrates that I can independently apply BPMN notation to construct a complete, correct process model — moving beyond theoretical knowledge into authentic, hands-on practice.
+
