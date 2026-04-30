@@ -43,4 +43,4 @@ Constructing this diagram was the most instructive learning experience across al
 - Andrew Miller 2025, Business process modeling lecture, YouTube, Available at: https://www.youtube.com/watch?v=wliGu7rjI7s, (Accessed: 22 April 2026)
 - Camunda 2025, BPMN reference guide, Camunda Services GmbH, Available at: https://camunda.com/bpmn/reference/, (Accessed: 22 April 2026)
 - Dumas, M, La Rosa, M, Mendling, J & Reijers, HA 2018, Fundamentals of business process management, 2nd edn, Springer, Heidelberg.
-- Renna, P & Colonnese, C 2025, ‘A simulation-driven business process reengineering framework for teaching assignment optimization in higher education’, Applied Sciences, vol. 15, no. 5, article 2756, doi: 10.3390/app15052756. (Accessed: 23 April 2026)
+- Renna, P & Colonnese, C 2025, ‘A simulation-driven business process reengineering framework for teaching assignment optimization in higher education’, Applied Sciences, vol. 15, no. 5, article 2756, doi: 10.3390/app15052756, (Accessed: 23 April 2026)
