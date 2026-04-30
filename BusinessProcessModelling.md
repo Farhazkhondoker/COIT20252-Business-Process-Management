@@ -33,7 +33,7 @@ I selected this resource because it shifted my perspective on process modelling 
 
 [Click to view: MS Visio file](https://cqu365-my.sharepoint.com/:u:/g/personal/farhaz_khondoker_cqumail_com/IQDSNnKxM-iMR4JzTFt3TYmDAfI6gt4HLGK6bWt2wolD39M?e=0EImGZ)
 
-![Instant Noodles Swimlane Diagram Screenshot](Images/Noodles.png)
+![Instant Noodles Swimlane Diagram Screenshot](Images/Noodle.png)
 
 To apply and consolidate my understanding of BPMN 2.0 notation, I created an original swimlane process diagram modelling the everyday task of making instant noodles. The diagram is structured across three swimlanes — Preparation, Cooking, and Serving — and incorporates key BPMN 2.0 elements including a start event, task boxes, XOR (exclusive) gateway, and an end event. The XOR gateway includes both a “Yes” path progressing the process forward and a “No” path routing back to the previous step, which accurately reflects real-world conditional logic in process flows.
 
